@@ -1,0 +1,28 @@
+name: nashable
+favicon: null
+layout_spectrum: 0.7531357570551336
+typography_spectrum: 0.09725122130475938
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5212647474836558
+  lightness: 0.2632999620400369
+  saturation: 0.26941650244407356
+  rhythmicContrast: 0.5199574392754585
+purpose: []
